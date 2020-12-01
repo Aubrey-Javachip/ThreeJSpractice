@@ -1,4 +1,5 @@
 # ThreeJSpractice
+Aubrey Schelbauer 
 See master branch Threejspractice code
 
 Made a 3d snowman
